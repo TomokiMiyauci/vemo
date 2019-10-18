@@ -45,6 +45,17 @@ export default {
    ** Nuxt.js modules
    */
   modules: ['@nuxtjs/pwa'],
+
+  manifest: {
+    name: 'Vinutes',
+    short_name: 'Vinutes',
+    description: 'Voice recorder for minutes',
+    lang: 'ja',
+    theme_color: '#000000',
+    background_color: '#000000',
+    display: 'standalone',
+    gcm_sender_id: '103953800507'
+  },
   /*
    ** vuetify module configuration
    ** https://github.com/nuxt-community/vuetify-module
