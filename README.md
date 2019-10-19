@@ -1,6 +1,11 @@
-# vinutes
+# vemo [IN-PROGRESS]
 
-> My voice minutes app
+> My voice memo app
+
+## Feature
+
+>Vemo is **V**ice m**emo** application.  
+>This provides voice record function and real-time transcription function.
 
 ## Build Setup
 
