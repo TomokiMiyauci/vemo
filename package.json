@@ -1,7 +1,7 @@
 {
-  "name": "vinutes",
+  "name": "vemo",
   "version": "1.0.0",
-  "description": "My voice minutes app",
+  "description": "My voice memo app",
   "author": "TomokiMiyauci",
   "private": true,
   "scripts": {
